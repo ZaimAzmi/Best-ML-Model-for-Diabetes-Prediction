@@ -14,14 +14,17 @@ Comparison of Test Accuracies
 ...And use the best model to predict outcome of new input data 
 
 New data input
-+-------------------+-------+---------------+---------------+---------+-------+------------------+-----+
-| Pregnancies       | Glucose | BloodPressure | SkinThickness | Insulin | BMI   | DiabetesPedigree | Age |
-+-------------------+-------+---------------+---------------+---------+-------+------------------+-----+
-| 5                 | 166   | 72            | 19            | 175     | 25.8  | 0.587            | 51  |
-+-------------------+-------+---------------+---------------+---------+-------+------------------+-----+
+- Pregnancies: 5
+- Glucose: 166
+- BloodPressure: 72
+- SkinThickness: 19
+- Insulin: 175
+- BMI: 25.8
+- DiabetesPedigree: 0.587
+- Age: 51
 
 Result of prediction
--The person is diabetic
+- The person is diabetic
 
 Project Workflow
 ![image](https://github.com/ZaimAzmi/Best-ML-Model-for-Diabetes-Prediction/assets/76802526/d719f392-3de0-465f-b437-4365420a9402)
