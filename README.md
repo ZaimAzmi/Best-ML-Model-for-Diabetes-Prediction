@@ -7,9 +7,9 @@ Find the best Prediction Model out of 3 ML models
 - Neural Network
 
 Comparison of Test Accuracies
-SVM: 0.7727 (best)
-Neural Network: 0.7338
-Random Forest: 0.7273
+- SVM: 0.7727 (best)
+- Neural Network: 0.7338
+- Random Forest: 0.7273
   
 ...And use the best model to predict outcome of new input data 
 
